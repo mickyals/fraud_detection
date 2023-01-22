@@ -1,1 +1,1 @@
-print("adding all daya processing code related to fraud detection")
+print("adding all data processing code related to fraud detection")
